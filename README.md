@@ -1,1 +1,2 @@
 # chatBot
+LangChain is a framework for building chatbots and other applications using Large Language Models (LLMs). LangChain provides abstractions that make it easy to interact with language models. These abstractions include agents, which are responsible for tasks like text generation, summarization, and question answering.I use langchain to build chatbot which is helped coustomer to communicate user and we also chatgpt api to answering our question.
